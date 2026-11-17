@@ -1,0 +1,6 @@
+<?php
+$lenght = 10;
+$breadth = 5;
+$araa = $lenght * $breath;
+echo = "Area of rectangle= ". $arae
+?>
